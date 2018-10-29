@@ -1,13 +1,13 @@
-baseurl = "https://SarahJoly.github.io/"
-title = "Sarah Joly"
-copyright = "&copy; 2018 Sarah Joly (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
+baseurl = "https://jolysarah.github.io/"
+title = "jolysarah"
+copyright = "&copy; 2018 jolysarah (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
-publishDir = "../SarahJoly.github.io"
+publishDir = "../jolysarah.github.io"
 relativeurls = true
 
 # Enable comments by entering your Disqus shortname
@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Sarah Joly"
+  name = "jolysarah"
   role = "Student at UMONS (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
@@ -50,14 +50,14 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Sarah.Joly@student.umons.ac.be"
+  email = "jolysarah@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
   phone = "+32/0XX.XX.XX.XX"
   skype = ""
   telegram = ""
 
-  # Enable Keybase in Contact widget by entering your keybase.io SarahJoly.
+  # Enable Keybase in Contact widget by entering your keybase.io jolysarah.
   keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -207,17 +207,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:Sarah.Joly@student.umons.ac.be"
+    link = "mailto:jolysarah@student.umons.ac.be"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/SarahJoly"
+    link = "//github.com/jolysarah"
 
 #  [[params.social]]
 #    icon = "twitter"
 #    icon_pack = "fa"
-#    link = "//twitter.com/SarahJoly"
+#    link = "//twitter.com/jolysarah"
 
 #  [[params.social]]
 #    icon = "stack-overflow"
