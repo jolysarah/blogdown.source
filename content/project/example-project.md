@@ -3,10 +3,10 @@
 date = "2018-09-24"
 
 # Project title.
-title = "My project"
+title = "Projet n°1"
 
 # Project summary to display on homepage.
-summary = "A short summary of my project."
+summary = "Création d'un site web"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "project.jpg"
@@ -27,4 +27,4 @@ image = "headers/project-header.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Dans le carde de mon cours des sciences des données, j'apprends à créer un site web complet et présantant mes travaux

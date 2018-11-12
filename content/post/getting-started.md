@@ -3,10 +3,10 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "hugo"]
-title = "Mon premier blog"
+title = "Blog n°1"
 math = true
 summary = """
-Résumé en une ou deux phrases ici. 
+Site en cours de création  
 """
 
 [header]
@@ -16,8 +16,7 @@ preview = false
 
 +++
 
-Le contenu ici
 
-## Un titre
+## Site en cours de construction
 
-Du texte **avec une partie en gras**...
+Dans le cardre de mon cours de SDD, je crée ce site. Il est donc succeptible de changer à tout moment puisqu'il n'est pas terminé. 
